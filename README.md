@@ -348,4 +348,5 @@ This repository serves as:
 ## Author
 
 Arman Esmaeili - AI enthusiast 
+
 Focused on building strong foundations in classical ML before advancing into more complex domains.

@@ -13,10 +13,7 @@ The structure follows a progressive learning path — starting from supervised l
 
 ---
 
-
----
-
-# 01 — Supervised Learning
+## 01 — Supervised Learning
 
 This section covers the foundations of supervised learning, where models learn from labeled data.
 
@@ -34,7 +31,7 @@ Building intuition behind predictive modeling and generalization.
 
 ---
 
-# 02 — Regression
+## 02 — Regression
 
 This section focuses specifically on regression algorithms for continuous target prediction.
 
@@ -59,7 +56,7 @@ Understanding linear modeling assumptions and controlling model complexity.
 
 ---
 
-# 03 — Decision Trees and Ensemble Methods
+## 03 — Decision Trees and Ensemble Methods
 
 This section covers tree-based models and advanced ensemble techniques.
 
@@ -80,7 +77,7 @@ Improving model performance through aggregation and variance reduction.
 
 ---
 
-# 04 — Unsupervised Learning
+## 04 — Unsupervised Learning
 
 This section explores pattern discovery without labeled data.
 
@@ -100,7 +97,7 @@ Extracting structure and hidden patterns from unlabeled datasets.
 
 ---
 
-# 05 — Semi-Supervised Learning
+## 05 — Semi-Supervised Learning
 
 This section introduces learning techniques that combine labeled and unlabeled data.
 
@@ -116,7 +113,7 @@ Leveraging partially labeled datasets efficiently.
 
 ---
 
-# 06 — Reinforcement Learning
+## 06 — Reinforcement Learning
 
 This section introduces sequential decision-making and reward-based learning systems.
 
@@ -133,7 +130,7 @@ Understanding learning through interaction and reward optimization.
 
 ---
 
-# 07 — Neural Networks
+## 07 — Neural Networks
 
 This section covers the foundations of neural computation and deep learning basics.
 
@@ -151,7 +148,7 @@ Building intuition for non-linear function approximation and representation lear
 
 ---
 
-# 08 — Practical Approach (Hands-On ML Book)
+## 08 — Practical Approach (Hands-On ML Book)
 
 Primary reference:
 "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" – Aurélien Géron
